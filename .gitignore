@@ -1,0 +1,8 @@
+
+# rust
+/target
+
+# node + tailwind
+/node_modules
+/dist
+
